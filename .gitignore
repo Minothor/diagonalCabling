@@ -2,6 +2,7 @@
 eclipse
 .gradle/
 .classpath
+.metadata/
 README.txt
 .project
 .settings/org.eclipse.jdt.core.prefs
