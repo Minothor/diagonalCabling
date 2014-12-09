@@ -1,7 +1,6 @@
 /bin/
-.gradle
 eclipse
-gradle
+.gradle/
 .classpath
 README.txt
 .project
